@@ -1,0 +1,7 @@
+<form asp-action="http://localhost:8080/api/UploadaFile" 
+      asp-controller="UploadFile" 
+      method="post"
+      enctype="multipart/form-data">
+    <input type="file" name="files" multiple />
+    <input type="submit" value="Upload Selected Files" />
+</form>

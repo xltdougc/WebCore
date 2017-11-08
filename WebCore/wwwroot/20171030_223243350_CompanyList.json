@@ -1,0 +1,21 @@
+{
+  "company_id": 10,
+  "company_name": "Company A",
+  "preferred_currency_type_id": 1,
+  "preferred_currency_type_code": "USD"
+} {
+  "company_id": 14,
+  "company_name": "Company B",
+  "preferred_currency_type_id": 2,
+  "preferred_currency_type_code": "CAN"
+} {
+  "company_id": 15,
+  "company_name": "Company C",
+  "preferred_currency_type_id": 3,
+  "preferred_currency_type_code": "MXN"
+} {
+  "company_id": 17,
+  "company_name": "Company D",
+  "preferred_currency_type_id": 4,
+  "preferred_currency_type_code": "EUR"
+} { status: 1 }
